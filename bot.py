@@ -121,7 +121,7 @@ async def start_command(message: Message):
     
     os.makedirs(os.path.join(BASE_DIR, str(message.from_user.id)), exist_ok=True)
     drop_memory()
-    await message.reply("<b>⚡ Ultra-Low RAM Bot Engine Online</b>", reply_markup=get_main_keyboard(), parse_mode=ParseMode.HTML)
+    await message.reply("<b>⚡ XNS HOSTING : ONLINE</b>", reply_markup=get_main_keyboard(), parse_mode=ParseMode.HTML)
 
 @router.message(Command("cancel"))
 @router.message(F.text == "❌ Cancel")
