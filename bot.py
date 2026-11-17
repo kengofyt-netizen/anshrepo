@@ -36,8 +36,8 @@ from aiogram.client.default import DefaultBotProperties
 from aiogram.enums import ParseMode
 
 # --- CONFIGURATION ---
-BOT_TOKEN = "7724201424:AAPkpV-FEg-OJ57StPLbzPhjy6nALVABKng" 
-OWNER_ID = 5762246224  
+BOT_TOKEN = "9126698732:AAFaaxRizLUqDSkz6EHzCAP7rwv9YMwfyZY" 
+OWNER_ID = 8969010897  
 
 # --- CONSTANTS ---
 BASE_DIR = os.path.abspath("user_bots")
