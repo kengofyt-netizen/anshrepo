@@ -37,7 +37,7 @@ from aiogram.enums import ParseMode
 
 # --- CONFIGURATION ---
 BOT_TOKEN = "9126698732:AAFaaxRizLUqDSkz6EHzCAP7rwv9YMwfyZY" 
-OWNER_ID = 8969010897  
+OWNER_ID = 8840019862  
 
 # --- CONSTANTS ---
 BASE_DIR = os.path.abspath("user_bots")
